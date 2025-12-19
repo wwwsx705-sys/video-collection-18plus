@@ -13,6 +13,10 @@ lang: en
 timezone: UTC
 show_downloads: false
 
+plugins:
+  - jekyll-seo-tag
+
+
 # ===== Content Safety =====
 safe: true
 lsi: false
