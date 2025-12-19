@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Prevent unnecessary files
+Disallow: /assets/
+Disallow: /_site/
+
+Sitemap: https://wwwsx705-sys.github.io/video-collection-18plus/sitemap.xml
